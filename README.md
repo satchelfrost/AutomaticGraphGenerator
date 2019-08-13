@@ -1,3 +1,7 @@
+## Instantaneously generate graphs from pre-existing excel data
+
+![](autoGraphGenerator.PNG)
+
 This program generates graphical images automatically using an excel file and the python program
 graphs.py.
 
